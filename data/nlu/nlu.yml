@@ -1,0 +1,39 @@
+version: '3.1'
+nlu:
+  - intent: greet
+    examples: |
+      - Hello
+      - Hi
+      - Hi bot
+      - Hey bot
+      - hi again
+      - hi folks
+      - hi there
+      - xin chào
+      - hello
+      - alo
+      - greetings
+      - hello robot
+      - hola
+      - nice to meet you.
+
+  - intent: good_bye
+    examples: |
+      - Goodbye
+      - See you later
+      - Ok bye
+      - Bye.
+      - ByeBye.
+
+  - intent: thank
+    examples: |
+      - Thanks
+      - ok good
+      - thank you
+      
+  - intent: bot_challenge
+    examples: |
+      - are you a bot?
+      - are you a human?
+      - am I talking to a bot?
+      - am I talking to a human?
