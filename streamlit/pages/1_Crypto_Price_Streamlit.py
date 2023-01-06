@@ -13,7 +13,7 @@ import time
 # Page layout
 ## Page expands to full width
 st.set_page_config(layout="wide")
-st.set_option("page_config")
+#st.set_option("page_config")
 #---------------------------------#
 # Title
 
