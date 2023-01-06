@@ -1,6 +1,6 @@
 To running this Rasa Demo, you need:
 Install requiments (recommend using python 3.8):
-* > conda create -n env python=3.8
+* > conda create -n env python=3.8 (or another virtual environment)
 * > pip install -r requirements.txt
 
 ----------------------
@@ -17,11 +17,6 @@ This repository is using for demo Streamlit Web Apps.
 
 # To use this demo:
 ***Demo Files:***
-* ***Command to run streamlit app.***
->rasa train
->rasa --enable-api
->cd streamlit
->streamlit run file_name.py
 --------------------------
 1. **crypto_price_streamlit.py**
 [![Demo-Crypto.png](https://i.postimg.cc/MKnwcdY9/Demo-Crypto.png)](https://postimg.cc/BXfkk5kF)
