@@ -10,7 +10,8 @@ Train model:
 
 Prepare 2 command line:
 * commandline 1: rasa run --enable-api
-* commandline 2: streamlit run Home.py
+* commandline 2: cd streamlit 
+* streamlit run Home.py
 ----------------------------
 # Demo_Streamlit_Apps
 This repository is using for demo Streamlit Web Apps.
