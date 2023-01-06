@@ -1,7 +1,6 @@
 To running this Rasa Demo, you need:
 Install requiments (recommend using python 3.8):
 * > conda create -n env python=3.8
-* > python -m pip install git+https://github.com/RasaHQ/rasalit (Install Rasa and Streamlit)
 * > pip install -r requirements.txt
 
 ----------------------
